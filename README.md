@@ -1,3 +1,3 @@
 PRIOR_GUIDANCE
 
-This Project is useful for 1st yeat students to know the domain in departments.In paricular department useful courses link either paid or free and books names and best youtube links also shared
+This Project is useful for 1st year and beginner students to know the domains in their departments.  It provides the resources to learn their intrest by providing paid and free courses links along with e-books.
